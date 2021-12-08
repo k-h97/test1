@@ -1,0 +1,32 @@
+.test {
+  background-color: white;
+}
+.test-img {
+  height: 400px;
+}
+.test-img-ttl {
+  font-size: 40px;
+  color: white;
+  margin: 100px auto 0;
+}
+.test-blog1 {
+  display: inline-block;
+  width: 30%;
+}
+.test-blog1-img {
+  width: 100%;
+}
+.test-blog2 {
+  display: inline-block;
+  width: 30%;
+}
+.test-blog2-img {
+  width: 100%;
+}
+.test-blog3 {
+  display: inline-block;
+  width: 30%;
+}
+.test-blog3-img {
+  width: 100%;
+}
